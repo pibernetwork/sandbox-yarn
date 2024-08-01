@@ -1,0 +1,10 @@
+{
+  "license": "MIT",
+  "main": "index.js",
+  "name": "sandbox-yarn",
+  "private": true,
+  "version": "1.0.0",
+  "workspaces": [
+    "packages/*"
+  ]
+}
